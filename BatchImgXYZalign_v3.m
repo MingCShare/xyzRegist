@@ -9,11 +9,9 @@
 
 % edit parameter here 
 
-% fdir ='G:\Xian data backup\2P\20240606_gfap_mouse1\tiff\green_channel\';   % file directory
+fdir ='G:\2P\20240706GFAP\mouse1\Tiff';
 
-fdir ='G:\Xian data backup\2P\20241125GFAP_KGC_mCherry\Tiff\laser_ablation';
-
-refimgname ='2_GFAP_KGC_before_z12to72_2umstep.tif';
+refimgname ='GFAP_2umstep.tif';
 
 
 dualchannel = 1;  % 0 for single channel and;  1 for dual channel data, 
